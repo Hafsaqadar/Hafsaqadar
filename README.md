@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Reactjs 
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me  haf252537@gmail.com
+- 📫 How to reach me  hafsa.dev19@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love speaking different languages
 
